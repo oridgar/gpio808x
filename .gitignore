@@ -1,0 +1,8 @@
+.cproject
+.project
+.settings
+8088_tester
+*.bin
+references
+remotemake
+*.o

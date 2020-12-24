@@ -1,0 +1,3 @@
+Operating speeds tested: 3hz - 370Khz
+below 3hz the CPU is not stable.
+above 370Khz not tested well yet (need better delay function).
